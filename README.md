@@ -6,7 +6,7 @@ Requirement
 1.Install the Postman Application
 https://www.postman.com/downloads/
 
-2.Open the github link https://github.com/dartgerano/API_Testing_Postman then download the files
+2.Open the github link https://github.com/dartgerano/API_Testing_Postman then click the file and to download click the View Raw
 
 3.Run the Postman application then create a workspace and click the Import button
 
